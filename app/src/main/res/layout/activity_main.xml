@@ -12,6 +12,7 @@
         android:layout_marginTop="20dp"
         android:hint="请直接输入金额，例如0.01"
         android:inputType="numberDecimal"
+        android:maxLength="10"
         android:maxLines="1"
         android:paddingLeft="12dp" />
 
